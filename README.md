@@ -19,6 +19,8 @@
 [![Issues](https://img.shields.io/github/issues/paras160500/US-VISA-MLOPS-PRODUCTION-READY)](https://github.com/paras160500/US-VISA-MLOPS-PRODUCTION-READY/issues)
 [![Last commit](https://img.shields.io/github/last-commit/paras160500/US-VISA-MLOPS-PRODUCTION-READY)](https://github.com/paras160500/US-VISA-MLOPS-PRODUCTION-READY/commits/main)
 
+![Architecture Diagram](diagram.png)
+
 [Quick start](#-quick-start) · [Architecture](#-architecture) · [ML pipeline](#-ml-pipeline) · [API](#-api-reference) · [Docker](#-docker) · [CI/CD](#-cicd) · [Troubleshooting](#-troubleshooting) · [Roadmap](#-roadmap)
 
 </div>
